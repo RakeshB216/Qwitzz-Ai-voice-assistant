@@ -33,4 +33,18 @@ A Ai-voice-activated assistant with a Flask backend and React frontend, providin
 
 ## Model Files
 - The `backend/model/` directory contains large OpenVINO model files, which are not included in this repository due to size.
-- Download the `ssdlite_mobilenet_v2` model from [Open Model Zoo](https://storage.openvinotoolkit.org/) and place it in `backend/model/`.
+- Download the `ssdlite_mobilenet_v2` model from [Open Model Zoo](https://storage.openvinotoolkit.org/) and place it in `backend/model/`.qwitzz-voice-assistant/
+├── backend/
+│   ├── app.py
+│   ├── config.py
+│   ├── routes/
+│   ├── services/
+│   ├── models/
+│   ├── utils/
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   ├── package.json
+│   └── ... (other frontend files)
+├── README.md
+└── .gitignore
