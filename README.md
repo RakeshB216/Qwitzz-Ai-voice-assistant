@@ -1,6 +1,6 @@
 # Qwitzz AI - Voice Assistant
 
-A Ai-voice-activated assistant with a Flask backend and React frontend, providing features like weather updates, Wikipedia search, fitness tips, emergency contacts, and object detection.
+AI-voice-activated assistant with a Flask backend and React frontend, providing features like weather updates, Wikipedia search, fitness tips, emergency contacts, and object detection.
 
 ## Features
 - Weather updates via web scraping
